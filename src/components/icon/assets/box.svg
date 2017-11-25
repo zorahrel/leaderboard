@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg version="1.1" viewBox="0 0 44 46" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<title>icon-crate@3x</title>
+<desc>Created with Sketch.</desc>
+<defs>
+<filter id="d" x="-4.5%" y="-4.8%" width="109.1%" height="119%">
+<feOffset dx="0" dy="4" in="SourceAlpha" result="shadowOffsetOuter1"/>
+<feColorMatrix in="shadowOffsetOuter1" result="shadowMatrixOuter1" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.412618886 0"/>
+<feMerge>
+<feMergeNode in="shadowMatrixOuter1"/>
+<feMergeNode in="SourceGraphic"/>
+</feMerge>
+</filter>
+<linearGradient id="c" x1="48.534%" x2="48.534%" y1="19.418%" y2="98.683%">
+<stop stop-color="#fff" offset="0"/>
+<stop stop-color="#E4E4E4" offset="1"/>
+</linearGradient>
+<polygon id="b" points="8.8004 9.4295 35.227 9.4295 35.227 1.8514 8.8004 1.8514"/>
+<polygon id="a" points="8.8004 40.455 35.227 40.455 35.227 32.877 8.8004 32.877"/>
+</defs>
+<g fill="none" fill-rule="evenodd">
+<g transform="translate(-1121 -270)">
+<g transform="translate(50 182)">
+<g transform="translate(1071 88)">
+<g filter="url(#d)">
+<polygon points="0.52962 20.727 43.497 20.727 43.497 9.4295 0.52962 9.4295" fill="#F7C903"/>
+<polygon points="2.3931 21.578 41.089 21.578 41.089 20.727 2.3931 20.727" fill="#4C4D4D"/>
+<polygon points="2.8192 0.49346 0.52991 9.4295 8.8001 9.4295 8.8001 0.49346" fill="#fff"/>
+<polygon points="35.227 0.49346 35.227 9.4295 43.496 9.4295 41.207 0.49346" fill="#fff"/>
+<use fill="#C8C8C9" xlink:href="#b"/>
+<use fill="url(#c)" xlink:href="#b"/>
+<polygon points="8.8004 20.727 35.227 20.727 35.227 9.4295 8.8004 9.4295" fill="#F7A203"/>
+<polygon points="0.52962 32.877 43.497 32.877 43.497 21.578 0.52962 21.578" fill="#F7C903"/>
+<polygon points="0.53014 32.877 2.8195 41.813 8.7997 41.813 8.7997 32.877" fill="#fff"/>
+<polygon points="35.227 32.877 35.227 41.813 41.207 41.813 43.496 32.877" fill="#fff"/>
+<use fill="#C8C8C9" xlink:href="#a"/>
+<use fill="url(#c)" xlink:href="#a"/>
+<polygon points="8.8004 32.877 35.227 32.877 35.227 21.578 8.8004 21.578" fill="#F7A203"/>
+</g>
+</g>
+</g>
+</g>
+</g>
+</svg>

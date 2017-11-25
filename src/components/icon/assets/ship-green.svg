@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="38px" height="52px" viewBox="0 0 38 52" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>ship-04-geert-icon@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-9.7%" y="-10.8%" width="119.8%" height="138.1%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="detailed-stats-01" transform="translate(-118.000000, -268.000000)">
+            <g id="Group-5" transform="translate(50.000000, 182.000000)">
+                <g id="ship-04-geert-icon" filter="url(#filter-1)" transform="translate(64.715536, 81.641138)">
+                    <g id="ship-04-geert" transform="translate(25.377411, 27.872202) rotate(-71.000000) translate(-25.377411, -27.872202) translate(2.289706, 9.054915)">
+                        <polygon id="Fill-60" fill="#111111" points="40.5221181 1.02318154e-12 46.1754095 17.282918 39.2354075 19.5142232 33.582116 2.23130515"></polygon>
+                        <polygon id="Fill-62" fill="#3FB060" points="16.8671374 23.6958425 20.9888225 35.7520141 10.752692 37.6345733 6.99627417 26.6447751"></polygon>
+                        <polygon id="Fill-64" fill="#3FB060" points="8.73787358 1.39387309 12.5932935 13.6357973 3.38840262 16.726477 0 5.95908197"></polygon>
+                        <polygon id="Fill-66" fill="#FFFFFF" points="5.59701934 10.216113 7.68451795 16.428212 26.9965238 10.9591969 29.3060968 17.8347635 10.3832497 24.4551503 12.4686333 30.6652079 29.3843515 26.1148403 26.7977144 18.4206565 24.5981212 11.875803 22.0135991 4.18161926"></polygon>
+                        <polygon id="Fill-68" fill="#FFFFFF" points="33.2840442 1.39387309 39.1791354 19.5298329 23.4349536 23.6958425 18.1903129 7.56202378"></polygon>
+                        <polygon id="Fill-70" fill="#000000" points="31.0938619 5.65143253 34.5258181 16.961409 30.9633909 18.1962903 27.5295439 6.88631381"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

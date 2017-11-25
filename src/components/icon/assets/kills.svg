@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="38px" viewBox="0 0 28 38" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-KO@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.5%" y="-2.8%" width="107.2%" height="111.6%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.412618886 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="detailed-stats-01" transform="translate(-1370.000000, -273.000000)" fill="#FFFFFF">
+            <g id="Group-5" transform="translate(50.000000, 182.000000)">
+                <g id="icon-KO" transform="translate(1315.000000, 90.000000)">
+                    <g id="Group-4" filter="url(#filter-1)" transform="translate(4.625000, 1.156250)">
+                        <polygon id="Rectangle-2-Copy-5" points="5.31872882 28.495276 14.3826007 32.1250657 23.4464726 28.495276 23.4464726 31.7283419 14.3826007 35.3367727 5.31872882 31.7283419"></polygon>
+                        <path d="M14.3826007,0.0155956642 L28.2705035,8.1504082 L28.2705035,24.4200333 L14.3826007,29.9333676 L0.494697924,24.4200333 L0.494697924,8.1504082 L14.3826007,0.0155956642 Z M8.16814821,20.9571954 C10.4347352,20.9571954 12.272167,19.0930373 12.272167,16.7934818 C12.272167,14.4939263 10.4347352,12.6297682 8.16814821,12.6297682 C5.90156124,12.6297682 4.06412945,14.4939263 4.06412945,16.7934818 C4.06412945,19.0930373 5.90156124,20.9571954 8.16814821,20.9571954 Z M21.1078616,20.9571954 C23.3744486,20.9571954 25.2118804,19.0930373 25.2118804,16.7934818 C25.2118804,14.4939263 23.3744486,12.6297682 21.1078616,12.6297682 C18.8412746,12.6297682 17.0038428,14.4939263 17.0038428,16.7934818 C17.0038428,19.0930373 18.8412746,20.9571954 21.1078616,20.9571954 Z M14.3898728,19.570227 L11.5118982,25.3261761 L17.2678474,25.3261761 L14.3898728,19.570227 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

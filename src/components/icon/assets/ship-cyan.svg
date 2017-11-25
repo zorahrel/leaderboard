@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Livello_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 29 75" style="enable-background:new 0 0 29 75;" xml:space="preserve">
+<style type="text/css">
+	.st0{filter:url(#filter-1);}
+	.st1{fill:#00B3BF;}
+	.st2{fill:#009599;}
+	.st3{fill:#FFFFFF;}
+	.st4{fill:#111111;}
+</style>
+<filter  filterUnits="objectBoundingBox" height="123.0%" id="filter-1" width="111.7%" x="-5.6%" y="-5.6%">
+	<feOffset  dx="0" dy="10" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+	
+		<feColorMatrix  in="shadowOffsetOuter1" result="shadowMatrixOuter1" type="matrix" values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0">
+		</feColorMatrix>
+	<feMerge>
+		<feMergeNode  in="shadowMatrixOuter1"></feMergeNode>
+		<feMergeNode  in="SourceGraphic"></feMergeNode>
+	</feMerge>
+</filter>
+<title>ship-01-marc-icon@3x</title>
+<desc>Created with Sketch.</desc>
+<g id="Page-1">
+	<g id="detailed-stats-02" transform="translate(-126.000000, -366.000000)">
+		<g id="Group-5" transform="translate(50.000000, 182.000000)">
+			<g id="ship-01-marc-icon" transform="translate(45.798687, 175.229759)" class="st0">
+				
+					<g id="ship-01-marc_1_" transform="translate(44.049055, 44.049055) rotate(44.000000) translate(-44.049055, -44.049055) translate(12.896925, 12.896925)">
+					<polygon id="Fill-38_1_" class="st1" points="62.1,41.7 54.2,49.2 50.8,45.8 58.8,38.1 					"/>
+					<polygon id="Fill-40_1_" class="st1" points="49.9,53.5 42.1,61 38.7,57.6 46.6,49.9 					"/>
+					<polygon id="Fill-42_1_" class="st1" points="44.4,58.8 42,61.1 25.4,43.9 27.8,41.6 					"/>
+					<polygon id="Fill-44_1_" class="st1" points="62.1,41.6 59.8,43.9 43.1,26.7 45.5,24.4 					"/>
+					<polygon id="Fill-46_1_" class="st2" points="21.4,23.7 50.2,53.6 55.2,48.8 25.4,20.2 					"/>
+					<polygon id="Fill-48_1_" class="st3" points="48.9,54.9 56.4,47.6 50.9,37.9 39,49.5 					"/>
+					<polygon id="Fill-50_1_" class="st3" points="30.3,36.8 37.8,29.4 18,5 6.1,16.5 					"/>
+					<polygon id="Fill-52_1_" class="st3" points="4.1,18.4 19.9,3.1 27.6,13.3 14.4,26.2 					"/>
+					<polygon id="Fill-54_1_" class="st4" points="1.3,11.7 13.3,0 18,4.8 5.9,16.5 					"/>
+					<polygon id="Fill-56_1_" class="st4" points="10.9,19.3 20.9,9.7 23.6,12.5 13.6,22.1 					"/>
+				</g>
+			</g>
+		</g>
+	</g>
+</g>
+</svg>

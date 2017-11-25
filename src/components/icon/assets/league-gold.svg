@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="44px" viewBox="0 0 31 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>league-silver copy 5@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.2%" y="-2.4%" width="106.4%" height="109.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.4 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="detailed-stats-02" transform="translate(-561.000000, -380.000000)">
+            <g id="Group-5" transform="translate(50.000000, 182.000000)">
+                <g id="league-silver-copy-5" transform="translate(501.000000, 195.000000)">
+                    <g id="Group-16" filter="url(#filter-1)" transform="translate(9.375000, 3.125000)">
+                        <polygon id="Polygon-2" fill="#FFFDB5" points="15.8386898 0.202700063 30.8397155 3.26383484 30.8397155 32.8107052 15.8386898 41.3166224 0.837664114 32.8107052 0.837664114 3.26383484"></polygon>
+                        <polygon id="Polygon-2" fill="#F4D34F" points="15.2830963 0.202700063 15.2830963 3.26383484 15.2830963 32.8107052 15.2830963 41.3166224 0.837664114 32.8107052 0.837664114 3.26383484"></polygon>
+                        <polygon id="Polygon-2" stroke="#B19316" points="15.5623991 4.64744842 26.9535727 7.00004444 26.9535727 29.1771717 15.5623991 35.7142857 4.17122538 29.1771717 4.17122538 7.00004444"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

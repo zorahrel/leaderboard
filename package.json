@@ -1,0 +1,33 @@
+{
+  "name": "leaderboard",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "react": "^16.1.1",
+    "react-animations": "^1.0.0",
+    "react-dom": "^16.1.1",
+    "react-flexa": "^0.8.1",
+    "react-redux": "^5.0.6",
+    "react-router-dom": "^4.2.2",
+    "react-scripts-ts": "2.8.0",
+    "redux": "^3.7.2",
+    "redux-actions": "^2.2.1",
+    "redux-thunk": "^2.2.0",
+    "styled-components": "^2.2.3",
+    "whatwg-fetch": "^2.0.3"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^21.1.8",
+    "@types/node": "^8.0.53",
+    "@types/react": "^16.0.25",
+    "@types/react-dom": "^16.0.3",
+    "@types/react-redux": "^5.0.13",
+    "@types/redux-actions": "^2.2.3"
+  }
+}

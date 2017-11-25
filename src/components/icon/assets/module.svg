@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="37px" height="43px" viewBox="0 0 37 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>icon-shoot@3x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-2.2%" y="-2.1%" width="104.4%" height="108.3%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.412618886 0" type="matrix" in="shadowOffsetOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="detailed-stats-01" transform="translate(-909.000000, -271.000000)" fill="#FFFFFF">
+            <g id="Group-13" transform="translate(855.000000, 267.000000)">
+                <g id="icon-shoot" transform="translate(50.000000, 0.000000)">
+                    <g id="Group" filter="url(#filter-1)" transform="translate(3.125000, -1.562500)">
+                        <g id="module-icon" transform="translate(22.656250, 24.218750) rotate(-49.000000) translate(-22.656250, -24.218750) translate(0.000000, 15.625000)">
+                            <polygon id="Fill-1" points="2.69649354 10.8806678 40.5133723 10.8806678 40.5133723 5.69119929 2.69649354 5.69119929"></polygon>
+                            <polygon id="Fill-2" points="40.5133723 10.8806322 44.8566986 9.46041647 44.8566986 7.11173462 40.5133723 5.69151884"></polygon>
+                            <polygon id="Fill-4" points="0 0.201370942 2.83692114 4.28440738 17.7243741 4.28440738 14.8874529 0.201370942"></polygon>
+                            <polygon id="Fill-6" points="28.5947466 2.01630338 18.9463778 2.01630338 20.5219329 4.28440738 30.1703017 4.28440738"></polygon>
+                            <g id="Group-7" transform="translate(15.625000, 14.298929) scale(1, -1) translate(-15.625000, -14.298929) translate(0.000000, 11.955179)">
+                                <polygon id="Fill-4-Copy" points="0 0.266836749 2.83692114 4.34987318 17.7243741 4.34987318 14.8874529 0.266836749"></polygon>
+                                <polygon id="Fill-6-Copy" points="28.5947466 2.08176919 18.9463778 2.08176919 20.5219329 4.34987318 30.1703017 4.34987318"></polygon>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
