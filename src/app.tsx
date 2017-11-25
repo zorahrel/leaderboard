@@ -57,33 +57,33 @@ class App extends React.Component<AppProps, AppState> {
           <LeaderboardContainer innerRef={(el: HTMLElement) => { this.leaderboard = el; }}>
             <LeaderboardTable>
               <LeaderboardHead justifyContent="space-between" alignItems="center">
-                <Col lg={3}>{/* Placeholder */}</Col>
+                <Col xs={3}>{/* Placeholder */}</Col>
 
-                <Col lg={2}>
+                <Col xs={2}>
                   <AlignedIcon height={30} name="league-o"/>
                   <AlignedTitle>League</AlignedTitle>
                 </Col>
 
-                <Col lg={1.5}>
+                <Col xs={1.5}>
                   <AlignedIcon height={30} name="modules-o"/>
                   <AlignedTitle>Modules</AlignedTitle>
                 </Col>
 
-                <Col lg={1.5}>
+                <Col xs={1.5}>
                   <AlignedIcon height={30} name="box-o"/>
                   <AlignedTitle>Earned</AlignedTitle>
                 </Col>
 
-                <Col lg={1}>
+                <Col xs={1}>
                   <AlignedIcon height={30} name="kills-o"/>
                   <AlignedTitle>Kills</AlignedTitle>
                 </Col>
 
-                <Col lg={1}>
+                <Col xs={1}>
                   <AlignedTitle>Immunity</AlignedTitle>
                 </Col>
 
-                <Col lg={1.5}>
+                <Col xs={1.5}>
                   <AlignedTitle>Avg round</AlignedTitle>
                 </Col>
               </LeaderboardHead>

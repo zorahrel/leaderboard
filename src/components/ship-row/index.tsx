@@ -23,7 +23,7 @@ interface ShipRowProps extends Ship {
 const ShipRow: React.SFC<ShipRowProps> = (props) => {
   return (
     <ShipRowWrapper justifyContent="space-between" alignItems="center">
-      <Col lg={3}>
+      <Col xs={3}>
         <Row alignItems="center">
           <Col>
             <Position>{props.position}</Position>
@@ -38,7 +38,7 @@ const ShipRow: React.SFC<ShipRowProps> = (props) => {
         </Row>
       </Col>
 
-      <Col lg={2}>
+      <Col xs={2}>
         <LeagueRecap>
           <Row alignItems="center" justifyContent="space-between">
             <Col>
@@ -56,24 +56,24 @@ const ShipRow: React.SFC<ShipRowProps> = (props) => {
         </LeagueRecap>
       </Col>
 
-      <Col lg={1.5}>
+      <Col xs={1.5}>
         <ModulesIcon count={props.modules}/>
       </Col>
 
-      <Col lg={1.5}>
+      <Col xs={1.5}>
         {props.box && <Icon name="box"/>}
         {!props.box && '-'}
       </Col>
 
-      <Col lg={1}>
+      <Col xs={1}>
         <KillsIcon count={props.kills}/>
       </Col>
 
-      <Col lg={1}>
+      <Col xs={1}>
         <ImmunityBadge rate={props.immunity}/>
       </Col>
 
-      <Col lg={1.5}>
+      <Col xs={1.5}>
         <AvgRound>{matchRound(props.avgRound)}</AvgRound>
       </Col>
     </ShipRowWrapper>
